@@ -29,7 +29,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,git,github,cpp,ros" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,linux,git,github,cpp,ros" />
 </p>
 
 ---
