@@ -38,10 +38,6 @@
 
 <div align="center">
 
-![zToasty's GitHub stats](https://github-readme-stats.vercel.app/api?username=zToasty&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF&icon_color=00FFFF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zToasty&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00FFFF)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=zToasty&theme=radical&hide_border=true&background=00000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF)
 
 </div>
